@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Luxury Residential Villa",
+        "location": "Bandra West, Mumbai",
+        "clientName": "Mr. Rajesh Sharma",
+        "description": "A stunning 5-bedroom luxury villa with modern amenities, infinity pool, and panoramic city views. Completed in 18 months with premium finishes.",
+        "imageUrl": "/uploads/residential_villa.jpg",
+        "latitude": 19.0596,
+        "longitude": 72.8295,
+        "createdAt": "2024-01-15T10:30:00.000Z"
+    },
+    {
+        "id": 2,
+        "title": "Commercial Office Complex",
+        "location": "Cyber City, Gurgaon",
+        "clientName": "TechCorp Industries",
+        "description": "State-of-the-art 12-story commercial building with smart office spaces, eco-friendly design, and advanced security systems. LEED Gold certified.",
+        "imageUrl": "/uploads/commercial_building.jpg",
+        "latitude": 28.4595,
+        "longitude": 77.0266,
+        "createdAt": "2024-02-20T14:15:00.000Z"
+    },
+    {
+        "id": 3,
+        "title": "Green Valley Apartments",
+        "location": "Whitefield, Bangalore",
+        "clientName": "Green Valley Developers",
+        "description": "Premium residential complex with 200+ units, clubhouse, swimming pool, gym, and landscaped gardens. Family-friendly community living.",
+        "imageUrl": "/uploads/apartment_complex.jpg",
+        "latitude": 12.9698,
+        "longitude": 77.7499,
+        "createdAt": "2024-03-10T09:45:00.000Z"
+    },
+    {
+        "id": 4,
+        "title": "Phoenix Shopping Mall",
+        "location": "Andheri East, Mumbai",
+        "clientName": "Phoenix Retail Group",
+        "description": "Massive 5-level shopping and entertainment complex with 300+ retail outlets, multiplex cinema, food court, and parking for 2000+ vehicles. Modern steel and glass architecture.",
+        "imageUrl": "/uploads/shopping_mall.jpg",
+        "latitude": 19.1136,
+        "longitude": 72.8697,
+        "createdAt": "2024-04-05T11:20:00.000Z"
+    },
+    {
+        "id": 5,
+        "title": "Metro Healthcare Center",
+        "location": "Koramangala, Bangalore",
+        "clientName": "Metro Hospitals Ltd",
+        "description": "Ultra-modern 250-bed multi-specialty hospital with advanced ICU, operation theaters, diagnostic center, and emergency services. Equipped with latest medical technology.",
+        "imageUrl": "/uploads/hospital.jpg",
+        "latitude": 12.9352,
+        "longitude": 77.6245,
+        "createdAt": "2024-05-12T08:00:00.000Z"
+    },
+    {
+        "id": 6,
+        "title": "Future Ready Academy",
+        "location": "Sector 50, Noida",
+        "clientName": "Future Education Trust",
+        "description": "Contemporary educational campus with smart classrooms, science labs, sports facilities, library, and auditorium. Designed for 2000+ students with focus on sustainable architecture.",
+        "imageUrl": "/uploads/school.jpg",
+        "latitude": 28.5706,
+        "longitude": 77.3272,
+        "createdAt": "2024-06-18T09:30:00.000Z"
+    }
+]
