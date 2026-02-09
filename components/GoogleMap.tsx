@@ -33,7 +33,7 @@ export default function GoogleMap({ latitude, longitude, title, location }: Goog
                 <div className="relative w-full h-64 bg-gray-200 rounded-lg overflow-hidden border-2 border-gray-300 hover:border-amber-500 transition-colors">
                     {/* Static map image from Google Static Maps API */}
                     <img
-                        src={`https://maps.googleapis.com/maps/api/staticmap?center=${latitude},${longitude}&zoom=14&size=600x300&markers=color:red%7C${latitude},${longitude}&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8`}
+                        src={`https://maps.googleapis.com/maps/api/staticmap?center=${latitude},${longitude}&zoom=14&size=600x300&markers=color:red%7C${latitude},${longitude}&key=`}
                         alt={`Map of ${location}`}
                         className="w-full h-full object-cover"
                     />
